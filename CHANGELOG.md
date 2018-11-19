@@ -8,3 +8,7 @@
 
 * Add thin theme (remove all bold font), work well with font like Iosevka (my favorite).
 * Adjust color of Java's operators.
+
+## 1.0.2
+
+* * Adjust color of Java's operators for thin theme.
