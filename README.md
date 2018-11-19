@@ -1,5 +1,5 @@
 # Noctis Uva ft Winter is comming
-## This is the custom theme from 
+## This is the custom theme from
 
 * [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) : Color syntax
 * [Winter is Coming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming) : UI color
@@ -15,3 +15,6 @@
 
 ![ScreenShot](screenshots/Shot02.PNG)
 
+## TODO
+
+- Custom Javascipt, HTML and CSS (will be done when I start to work with these language)

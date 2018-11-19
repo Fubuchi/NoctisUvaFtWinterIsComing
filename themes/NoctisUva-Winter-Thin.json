@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Noctis Uva ft Winter is coming",
+  "name": "Noctis Uva ft Winter is coming - no bold",
   "type": "dark",
   "colors": {
     "activityBar.background": "#02233d",
@@ -576,7 +576,7 @@
         "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby"
       ],
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -606,7 +606,7 @@
         "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby"
       ],
       "settings": {
-        "fontStyle": "bold italic"
+        "fontStyle": ""
       }
     },
     {

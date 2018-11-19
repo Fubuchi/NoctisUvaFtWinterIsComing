@@ -2,7 +2,7 @@
     "name": "noctis-uva-ft-winter-is-coming",
     "displayName": "Noctis Uva ft. Winter is comming",
     "description": "A mix between Noctis Uva and Winter is comming theme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "HaiUIT",
     "license": "Apache-2.0",
     "icon": "logo.png",
@@ -30,7 +30,12 @@
                 "label": "Noctis Uva ft. Winter is comming",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NoctisUva-Winter.json"
-            }
+            },
+            {
+              "label": "Noctis Uva ft. Winter is comming - No bold",
+              "uiTheme": "vs-dark",
+              "path": "./themes/NoctisUva-Winter-Thin.json"
+          }
         ]
     }
 }
