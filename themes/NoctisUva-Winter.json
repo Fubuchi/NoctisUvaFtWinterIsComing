@@ -70,7 +70,7 @@
     "inputValidation.infoBorder": "#219fd5",
     "inputValidation.warningBackground": "#ffca28",
     "inputValidation.warningBorder": "#ffca28",
-    "list.activeSelectionBackground": "#219fd5",
+    "list.activeSelectionBackground": "#219fd5b0",
     "list.inactiveSelectionBackground": "#0e293f",
     "list.inactiveSelectionForeground": "#5f7e97",
     "list.invalidItemForeground": "#975f94",

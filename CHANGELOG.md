@@ -11,4 +11,8 @@
 
 ## 1.0.2
 
-* * Adjust color of Java's operators for thin theme.
+* Adjust color of Java's operators for thin theme.
+
+## 1.0.3
+
+* Change `list.activeSelectionBackground` to transparent color (file icons are too hard to see with non-transparent)
