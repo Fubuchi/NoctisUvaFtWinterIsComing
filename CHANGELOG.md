@@ -16,3 +16,8 @@
 ## 1.0.3
 
 * Change `list.activeSelectionBackground` to transparent color (file icons are too hard to see with non-transparent)
+
+## 1.0.4
+
+* Increse transparency of `list.activeSelectionBackground`
+* Add thin and no italic theme
